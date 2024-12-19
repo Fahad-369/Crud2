@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+*{
+    color: #ffff;
+}
+
+#Update{
+    display: none;
+}
+
+input{
+    color: rgb(14, 13, 13);
+    
+}
